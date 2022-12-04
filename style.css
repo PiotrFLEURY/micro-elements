@@ -1,0 +1,21 @@
+micro-bottom-bar { 
+    position: absolute; 
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+random-user-list {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 95%;
+    width: 100%;
+    margin: 0 auto;
+    overflow: auto;
+}
+
+body {
+    padding: 0;
+    margin: 0 auto;
+}
